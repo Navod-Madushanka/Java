@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <name>Navod</name>
+        <email>navod@gmail.com</email>
+        <address>Kandy</address>
+        <contact>0772967997</contact>
+        <salary>50000</salary>
+    </user>
+    <user>
+        <name>Madushanka</name>
+        <email>madushanka@gmail.com</email>
+        <address>Colombo</address>
+        <contact>0716544373</contact>
+        <salary>75000</salary>
+    </user>
+    <user>
+        <name>Pavani</name>
+        <email>pavani@gmail.com</email>
+        <address>Thumpane</address>
+        <contact>0772352023</contact>
+        <salary>5000</salary>
+    </user>
+</users>
+

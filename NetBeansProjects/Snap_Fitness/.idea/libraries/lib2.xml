@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Setup/lib/flatlaf-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/mysql-connector-java-8.0.28.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-chart-themes-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-fonts-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/commons-beanutils-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-metadata-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-functions-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-annotation-processors-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-chart-customizers-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-javaflow-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-custom-visualization-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/spring-beans-5.3.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-castor-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/barbecue-1.5-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/jasperreports-6.19.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Setup/lib/spring-core-5.3.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

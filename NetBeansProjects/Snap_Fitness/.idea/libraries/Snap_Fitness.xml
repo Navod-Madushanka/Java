@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Snap_Fitness">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Snap_Fitness.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
